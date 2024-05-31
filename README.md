@@ -18,6 +18,13 @@ Will generate `a.out` file. `a.out` is the default name of output file. To run t
 ./a.out
 ```
 
+Explore files
+
+```bash
+file a.out
+```
+
+
 ### 2. Multiple files
 
 ```bash
